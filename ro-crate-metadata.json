@@ -22,7 +22,7 @@
             }
         },
         {
-            "@id": "exploration.ipynb",
+            "@id": "downloader.ipynb",
             "@type": [
                 "File",
                 "SoftwareApplication"
